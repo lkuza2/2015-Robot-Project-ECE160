@@ -404,7 +404,7 @@
 <NumElts>10</NumElts>
 <U16>
 <Name>Mode</Name>
-<Val>0</Val>
+<Val>6</Val>
 </U16>
 <String>
 <Name>Motor</Name>
@@ -420,7 +420,7 @@
 </Path>
 <I32>
 <Name>Power Level</Name>
-<Val>0</Val>
+<Val>80</Val>
 </I32>
 <U16>
 <Name>Position Mode</Name>
